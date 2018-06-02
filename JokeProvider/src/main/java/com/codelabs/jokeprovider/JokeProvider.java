@@ -13,9 +13,6 @@ public class JokeProvider {
         jokes[2] = "Q: Why do Java developers wear glasses? A: Because they cannot C#";
         jokes[3] = "Q. How does a computer get drunk? A: It takes screenshots.";
         jokes[4] = "Q: Can a kangaroo jump higher than a house? A: Of course, a house does not jump at all.";
-
-Check out this really funny jokes: https://short-funny.com/#ixzz5HB53v1iA
-";
         random = new Random();
     }
 
